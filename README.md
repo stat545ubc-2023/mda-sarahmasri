@@ -5,7 +5,7 @@ This repository is for Sarah Masri's Mini Data Analysis for STAT 545A, October 2
 ## Folders
 - **Milestone1**: All files pertaining to milestone 1.
 - **Milestone2**: All files pertaining to milestone 2.
-- **output**:: Output files produced (except for figures needed in md files) are stored here. 
+- **output**: Output files produced (except for figures needed in md files) are stored here. 
 
 
 ## Files
